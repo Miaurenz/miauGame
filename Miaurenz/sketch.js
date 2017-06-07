@@ -2,7 +2,7 @@ miaurenzIMGs = [];
 var imgWidth;
 var imgHeight;
 var miaurenz;
-var saveFileURL = "http://localhost/miauGame/miaurenz.json";
+var saveFileURL = "miaurenz.json";
 experience = {};
 
 function preload(){
